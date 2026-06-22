@@ -4,7 +4,7 @@ Prototipo funcional en Figma para la administración de torres, unidades residen
 bodegas y activos comunes del condominio El Mirador.
 
 ## 🔗 Prototipo
-- **Figma (vista):** [pega aquí el link público de Figma]
+- **Figma (vista):** (https://www.figma.com/make/rMvHsgoLuLy9y6OwbijUBS/Login-screen-design?code-node-id=0-9&p=f&t=nH5NEoaqhLHpv4P7-0&fullscreen=1)
 - **Herramienta de prototipado:** Figma (Figma Make)
 
 Archivos en la carpeta assets
